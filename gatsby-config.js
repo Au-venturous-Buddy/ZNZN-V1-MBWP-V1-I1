@@ -6,10 +6,10 @@
 
 module.exports = {
   siteMetadata: {
-    title: "The Ride to School",
+    title: "The Dream",
     author: "Au-venturous Buddy"
   },
-  pathPrefix: "/ZNZN-V1-MBWP-V1-I2",
+  pathPrefix: "/ZNZN-V1-MBWP-V1-I1",
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
@@ -27,8 +27,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `The Ride to School`,
-        short_name: `ZNZN-V1-MBWP-V1-I2`,
+        name: `The Dream`,
+        short_name: `ZNZN-V1-MBWP-V1-I1`,
         start_url: `/`,
         background_color: `#017BFF`,
         theme_color: `#017BFF`,

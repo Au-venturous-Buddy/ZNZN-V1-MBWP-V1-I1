@@ -1,10 +1,10 @@
 {
-  "name": "znzn-v1-mbwp-v1-i2",
+  "name": "znzn-v1-mbwp-v1-i1",
   "author": "Au-venturous Buddy <auventurous.buddy@gmail.com>",
   "main": "main.js",
   "build": {
     "icon": "src/images/Zene N Zeanne V4 Logo Small.png",
-    "productName": "The Ride to School",
+    "productName": "The Dream",
     "files": [
       "public/**/*",
       "main.js"
@@ -46,8 +46,8 @@
     }
   },
   "private": true,
-  "description": "This is about Zene and Zeanne's first day of school.",
-  "version": "1.1.2.0",
+  "description": "Zene and Zeanne had a dream...what is it?",
+  "version": "1.1.1.0",
   "license": "0BSD",
   "scripts": {
     "build": "gatsby build",

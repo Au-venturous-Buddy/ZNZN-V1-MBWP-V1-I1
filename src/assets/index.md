@@ -1,13 +1,13 @@
 ---
-title: "The Ride to School"
+title: "The Dream"
 show_title_on_cover: true
-date: "2015-07-27"
+date: "2015-05-31"
 version: 1
 volume: 1
-issue: 2
+issue: 1
 category: "Wordpress Posts"
-synopsis: "This is about Zene and Zeanne's first day of school."
+synopsis: "Zene and Zeanne had a dream...what is it?"
 modes: [
-    {mode_name: "Original", call_at: [0, 1, 2, 3]}
+    {mode_name: "Original", call_at: [0, 1, 2]}
 ]
 ---
