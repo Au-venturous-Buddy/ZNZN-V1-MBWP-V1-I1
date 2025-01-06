@@ -1,10 +1,10 @@
 {
-  "name": "znzn-v2-mbfb-v1-i1",
+  "name": "znzn-v1-mbwp-v1-i2",
   "author": "Au-venturous Buddy <auventurous.buddy@gmail.com>",
   "main": "main.js",
   "build": {
     "icon": "src/images/Zene N Zeanne V4 Logo Small.png",
-    "productName": "Our Summer Vacation",
+    "productName": "The Ride to School",
     "files": [
       "public/**/*",
       "main.js"
@@ -46,8 +46,8 @@
     }
   },
   "private": true,
-  "description": "Zene and Zeanne had a vacation in Zamboanga and Cagayan de Oro, and it was a blast!",
-  "version": "2.1.1.0",
+  "description": "This is about Zene and Zeanne's first day of school.",
+  "version": "1.1.2.0",
   "license": "0BSD",
   "scripts": {
     "build": "gatsby build",

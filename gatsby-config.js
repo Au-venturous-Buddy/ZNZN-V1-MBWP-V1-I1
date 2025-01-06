@@ -6,10 +6,10 @@
 
 module.exports = {
   siteMetadata: {
-    title: "Our Summer Vacation",
+    title: "The Ride to School",
     author: "Au-venturous Buddy"
   },
-  pathPrefix: "/ZNZN-V2-MBFB-V1-I1",
+  pathPrefix: "/ZNZN-V1-MBWP-V1-I2",
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
@@ -27,8 +27,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Our Summer Vacation`,
-        short_name: `ZNZN-V2-MBFB-V1-I1`,
+        name: `The Ride to School`,
+        short_name: `ZNZN-V1-MBWP-V1-I2`,
         start_url: `/`,
         background_color: `#017BFF`,
         theme_color: `#017BFF`,
